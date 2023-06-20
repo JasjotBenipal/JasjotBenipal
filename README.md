@@ -12,7 +12,7 @@ Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{JasjotBenipal}/count.svg)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JasjotBenipal"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JasjotBenipal&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JasjotBenipal&layout=compact"/>
 
 <!--
