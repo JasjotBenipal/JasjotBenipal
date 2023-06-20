@@ -4,13 +4,15 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JasjotBenipal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 Link to geekforgeeks for the  python stuff:https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/
 Links to creating readme.md: 
 https://www.sitepoint.com/github-profile-readme/
 https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783
+https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645
+
 
 ### Hi there 👋
 
