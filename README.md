@@ -12,9 +12,9 @@ Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{JasjotBenipal}/count.svg)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JasjotBenipal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JasjotBenipal"/>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JasjotBenipal)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JasjotBneipal&layout=compact"/>
 
 <!--
 Link to geekforgeeks for the  python stuff:https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/
