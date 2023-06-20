@@ -13,8 +13,7 @@ Visitors
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JasjotBenipal"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JasjotBneipal&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JasjotBenipal&layout=compact"/>
 
 <!--
 Link to geekforgeeks for the  python stuff:https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/
