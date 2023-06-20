@@ -2,8 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{JasjotBenipal}/count.svg)
-![](https://api.visitorbadge.io/api/VisitorHit?user=JasjotBenipal&repo=github-visitors-badge&countColor=%237B1E7A)
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JasjotBenipal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
