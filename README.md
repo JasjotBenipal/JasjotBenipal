@@ -14,6 +14,8 @@ Visitors
 
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=JasjotBenipal&show_icons=true"/><img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JasjotBenipal&layout=compact"/>
 
+![Snake animation](https://github.com/JasjotBenipal/JasjotBenipal/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 Link to geekforgeeks for the  python stuff:https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/
 Links to creating readme.md: 
