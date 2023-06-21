@@ -3,14 +3,22 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## I am currently learning React and Azure!
+- 💬 I am a third year Computer Science student at the University of Toronto Scarborough, specializing in Software Engineering! 
 
-<div id="badges" align="center">
+- 🔭 I’m currently working on a Java and C project!
+
+- 👯 I’m looking to do a Fall 2023 Co-op
+
+- 📫 How to reach me: jasjot.benipal@mail.utoronto.ca
+## 🌱 I am currently learning React and Azure!
+
+### Feel free to connect with me!
+<div id="badges">
   <a href="https://www.linkedin.com/in/jasjotsbenipal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-## Feel free to connect with me!
+
 
 ### Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/{JasjotBenipal}/count.svg)
