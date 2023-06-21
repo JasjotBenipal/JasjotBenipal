@@ -1,15 +1,18 @@
-
+# 👋 HI! I am Jasjot Singh Benipal 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+
+## I am currently learning React and Azure!
+
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jasjotsbenipal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+## Feel free to connect with me!
 
 ### Visitors
----
 ![Visitor Count](https://profile-counter.glitch.me/{JasjotBenipal}/count.svg)
 
 
