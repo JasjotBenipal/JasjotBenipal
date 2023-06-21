@@ -12,7 +12,8 @@
 </div>
 ## Feel free to connect with me!
 
-### Visitors: ![Visitor Count](https://profile-counter.glitch.me/{JasjotBenipal}/count.svg)
+### Visitors:
+![Visitor Count](https://profile-counter.glitch.me/{JasjotBenipal}/count.svg)
 
 
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=JasjotBenipal&show_icons=true"/><img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JasjotBenipal&layout=compact"/>
