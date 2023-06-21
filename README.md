@@ -1,16 +1,17 @@
-# <p align="center">👋 HI! I am Jasjot Singh Benipal 👋</p> 
+# <p align="center">👋 Hi! I am Jasjot Singh Benipal 👋</p> 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 💬 I am a third year Computer Science student at the University of Toronto Scarborough, specializing in Software Engineering! 
+- 💬 I am a ***Third Year Computer Science*** student at the ***University of Toronto Scarborough***, specializing in *Software Engineering!*
 
 - 🔭 I’m currently working on a Java and C project!
 
-- 👯 I’m looking to do a Fall 2023 Co-op
+- 👯 I’m actively seeking a ***Fall 2023 Co-op***
 
 - 📫 How to reach me: jasjot.benipal@mail.utoronto.ca
-## 🌱 I am currently learning React and Azure!
+
+-  🌱 I am currently learning *React* and *Azure!*
 
 ### Feel free to connect with me!
 <div id="badges">
@@ -19,10 +20,8 @@
   </a>
 </div>
 
-
 ### Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/{JasjotBenipal}/count.svg)
-
 
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=JasjotBenipal&show_icons=true"/><img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JasjotBenipal&layout=compact"/>
 
