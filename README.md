@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 💬 I am a ***Third Year Computer Science*** student at the ***University of Toronto Scarborough***, specializing in *Software Engineering!*
+- 💬 I am a ***Fourth Year Computer Science*** student at the ***University of Toronto Scarborough***, specializing in *Software Engineering!*
 
 - 🔭 I’m currently working on a Java and C project!
 
