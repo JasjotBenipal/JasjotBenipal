@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a Java and C project!
 
-- 👯 I’m actively seeking a ***Winter 2025 Co-op***
+- 👯 I’m actively seeking a ***Fall 2025 Co-op***
 
 - 📫 How to reach me: jasjot.benipal@mail.utoronto.ca
 
